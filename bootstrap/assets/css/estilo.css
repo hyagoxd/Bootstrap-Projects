@@ -1,0 +1,21 @@
+.text-purple{
+    color: #6610f2;
+}
+
+.bg-purple{
+    background: purple;
+}
+
+.topo{
+    height: 300px;
+}
+
+.destaque{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.quadro{
+    height: 200px;
+}
